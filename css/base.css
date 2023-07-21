@@ -1,11 +1,19 @@
 body {
   background: #fffbf4;
-  text-align: center;
-  margin: 50px;
+  text-align: start;
+  margin: 100px;
 }
 
 h1 {
   color: #f89174;
+}
+
+h2 {
+  color: #f89174;
+}
+
+a {
+  color: #091ced;
 }
 
 .tab-001 {
@@ -56,18 +64,3 @@ h1 {
     display: block;
 }
 
-#headline {
-  border-bottom: dotted 2px #f89174;
-}
-
-#headline p {
-  font-size: 1.2em;
-}
-
-h2 {
-  color:orange;
-}
-
-a {
-  color:gray;
-}
