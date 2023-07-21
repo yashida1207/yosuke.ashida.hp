@@ -1,3 +1,24 @@
-h3 {
-  color: #0000aa;
+body {
+  background: #fffbf4;
+  text-align: center;
+}
+
+h1 {
+  color: #f89174;
+}
+
+#headline {
+  border-bottom: dotted 2px #f89174;
+}
+
+#headline p {
+  font-size: 1.2em;
+}
+
+h2 {
+  color:orange;
+}
+
+a {
+  color:gray;
 }
