@@ -1,1 +1,1 @@
-document.write('<div class="header">ヘッダー</div>');
+document.write('<div class="header"></div>');
