@@ -1,9 +1,1 @@
-function header(){
-    $.ajax({
-        url: "header.html",
-        cache: false,
-        success: function(html){
-            document.write(html);
-        }
-    });
-}
+document.write('<div class="header">ヘッダー</div>');
