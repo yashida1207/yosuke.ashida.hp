@@ -16,6 +16,14 @@ a {
   color: #091ced;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #333;
+}
+
 .tab-001 {
     display: flex;
     flex-wrap: wrap;
