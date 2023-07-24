@@ -1,1 +1,1 @@
-document.write('<div class="header">"Contents:".bold().fontcolor("orange")</div>');
+document.write('<div class="header">Contents:</div>');
